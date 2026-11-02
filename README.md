@@ -1,44 +1,55 @@
 # Awesome Interactive Data Science Notebooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of top SaaS platforms and open-source interactive data science notebooks, reactive computational environments, and collaborative analytics workspaces.
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Interactive Data Science Notebooks Banner" width="100%">
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks?style=social)](https://github.com/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks?style=social)](https://github.com/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks/network/members)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+> 🚀 A curated list of top SaaS platforms and open-source interactive data science notebooks, reactive computational environments, and collaborative analytics workspaces.
 
-*Focused on Collaborative Notebooks, Reactive Execution, Cloud Data Science Platforms & Self-Hosted Workspaces.*
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Data-Science-Notebooks/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2077?label=Follow" /></a>
+</p>
 
-**Last updated: November 2026**
+*✨ Focused on Collaborative Notebooks, Reactive Execution, Cloud Data Science Platforms & Self-Hosted Workspaces. ✨*
 
----
-
-Interactive data science notebooks enable data scientists, machine learning engineers, and analysts to weave live code, computational queries (SQL/Python/R/Julia), explanatory markdown text, interactive visualizations, and dashboards into a single reproducible canvas. This repository tracks notable **SaaS platforms** and **open-source projects** shaping modern exploratory data analysis (EDA), reproducible research, and collaborative data science.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Notebook Platforms](#saas--hosted-notebook-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Architectural Paradigms](#key-architectural-paradigms)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & License](#disclaimer--license)
+**📅 Last updated: November 2026**
 
 ---
 
-## Sector Overview & Market Dynamics
-
-The global data science notebook platform market is estimated at **$2.8 billion in 2024–2026** and projected to surpass **$8.6 billion by 2034**, expanding at a Compound Annual Growth Rate (CAGR) of **~13.2%**. The sector is **moderately fragmented yet increasingly polarized**: hyperscale cloud and data-warehouse leaders (Databricks, Snowflake, Google Cloud) capture high-value enterprise compute spend and governance, while specialized agile players (Hex, Deepnote, Count) contest the collaborative layer, and a vibrant open-source ecosystem (marimo, Project Jupyter) sets foundational standards for local and reproducible interactive computing.
+Interactive data science notebooks enable data scientists, machine learning engineers, and analysts to weave live code 💻, computational queries (SQL/Python/R/Julia) ⚡, explanatory markdown text 📝, interactive visualizations 📊, and dashboards into a single reproducible canvas. This repository tracks notable **SaaS platforms** ☁️ and **open-source projects** 🛠️ shaping modern exploratory data analysis (EDA), reproducible research, and collaborative data science.
 
 ---
 
-## SaaS & Hosted Notebook Platforms
+## 📑 Table of Contents
+
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Notebook Platforms](#️-saas--hosted-notebook-platforms)
+- [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
+- [🧩 Key Architectural Paradigms](#-key-architectural-paradigms)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📊 Star History](#-star-history)
+- [📜 Disclaimer & License](#-disclaimer--license)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global data science notebook platform market is estimated at **$2.8 billion in 2024–2026** and projected to surpass **$8.6 billion by 2034**, expanding at a Compound Annual Growth Rate (CAGR) of **~13.2%**. The sector is **moderately fragmented yet increasingly polarized**: hyperscale cloud and data-warehouse leaders (Databricks, Snowflake, Google Cloud) capture high-value enterprise compute spend and governance, while specialized agile players (Hex, Deepnote, Count) contest the collaborative layer, and a vibrant open-source ecosystem (marimo, Project Jupyter) sets foundational standards for local and reproducible interactive computing. 🚀
+
+---
+
+## ☁️ SaaS & Hosted Notebook Platforms
 
 The table below benchmarks prominent commercial and hosted interactive notebook platforms, sorted in descending order of company valuation and scale:
 
-| Platform | Valuation / Company Scale | Starting Tier Pricing | Free Tier / Free Trial Limits | Key Capabilities |
+| 🏢 Platform | 💰 Valuation / Company Scale | 🏷️ Starting Tier Pricing | 🎁 Free Tier / Free Trial Limits | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Google Colab Enterprise](https://cloud.google.com/colab)** | **~$2.1 Trillion** (Alphabet Market Cap) | Pay-As-You-Go (~$0.05–$0.10+/hr compute instance + $0.05/hr runtime management fee; consumer Colab Pro starts at $9.99/mo) | No standalone perpetual enterprise tier; grants new Google Cloud accounts a **90-day $300 free trial credit pool**; consumer Colab offers a limited free tier with dynamic GPU caps | Native Vertex AI & BigQuery integration, enterprise IAM governance, managed serverless or dedicated GPU/TPU runtimes. |
 | **[Databricks Notebooks](https://www.databricks.com/)** | **~$134 Billion** (Series L Valuation) | Pay-As-You-Go starting at $0.07–$0.40 per DBU (Databricks Unit) + underlying cloud VM costs | **Databricks Free Edition** perpetually free for learning with serverless compute daily quotas; commercial workspace offers a **14-day free trial** with full platform DBUs | Distributed Apache Spark execution, Delta Lake Lakehouse integration, native MLflow experiment tracking, and multiplayer collaboration. |
@@ -53,11 +64,11 @@ The table below benchmarks prominent commercial and hosted interactive notebook 
 
 ---
 
-## Open-Source GitHub Projects
+## 🛠️ Open-Source GitHub Projects
 
 The open-source interactive data science notebook ecosystem ranges from classic Jupyter standards and reactive computational kernels to distributed enterprise compute engines. Repositories below are ordered by GitHub star count:
 
-| Project | GitHub Stars | License | Primary Focus & Distinctive Features |
+| 📦 Project | 🌟 GitHub Stars | ⚖️ License | 🔍 Primary Focus & Distinctive Features |
 | :--- | :--- | :--- | :--- |
 | **[marimo](https://github.com/marimo-team/marimo)** | [![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers) | Apache-2.0 | Next-generation reactive Python notebook stored as pure Python files (`.py`). Eliminates hidden out-of-order execution state, features built-in DuckDB SQL cells, zero-config web app deployment, and git-friendly version control. |
 | **[JupyterLab](https://github.com/jupyterlab/jupyterlab)** | [![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab?style=social&color=white)](https://github.com/jupyterlab/jupyterlab/stargazers) | BSD-3-Clause | The flagship modular interactive development environment for Project Jupyter. Highly extensible architecture supporting multi-language kernels (Python, R, Julia), integrated debuggers, LSP terminals, and custom UI extensions. |
@@ -78,34 +89,51 @@ The open-source interactive data science notebook ecosystem ranges from classic 
 
 ---
 
-## Key Architectural Paradigms
+## 🧩 Key Architectural Paradigms
 
-1. **Classic Linear State (Project Jupyter)**:
+1. **Classic Linear State (Project Jupyter)** ⚙️:
    - State is stored sequentially in memory within an active kernel.
    - Cells can be executed in arbitrary order, enabling rapid exploratory prototyping, though occasionally introducing hidden state gotchas.
-2. **Reactive Computation (marimo, Deepnote)**:
+2. **Reactive Computation (marimo, Deepnote)** 🔄:
    - Formulates notebooks as a Directed Acyclic Graph (DAG).
    - Changing an input variable or modifying an upstream dataset immediately re-executes all dependent downstream cells, guaranteeing deterministic reproducibility.
-3. **Canvas-Based & Polyglot Workspaces (Count, Hex)**:
+3. **Canvas-Based & Polyglot Workspaces (Count, Hex)** 🎨:
    - Expands the traditional vertical column into an infinite two-dimensional whiteboard or app canvas.
    - Combines drag-and-drop filtering, SQL transformations, Python machine learning models, and interactive KPI widgets.
-4. **Lakehouse & Warehouse-Native Compute (Snowflake, Databricks, GCP Colab Enterprise)**:
+4. **Lakehouse & Warehouse-Native Compute (Snowflake, Databricks, GCP Colab Enterprise)** ☁️:
    - Moves the notebook compute to the governed data storage layer rather than downloading data extracts to local machines.
    - Eliminates egress latency, enforces role-based access control (RBAC), and scales compute clusters elastically on demand.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-Contributions from data practitioners and open-source contributors are welcome!
-1. Fork this repository.
+Contributions from data practitioners, machine learning researchers, and open-source contributors are welcome! 🎉
+1. Fork this repository 🍴.
 2. Add your suggested SaaS product or open-source tool following the existing tabular structure.
 3. Ensure all star badges, pricing numbers, free tier quotas, and corporate valuations adhere to verified, factual sources.
-4. Submit a Pull Request with a succinct description of the platform and rationale.
+4. Submit a Pull Request with a succinct description of the platform and rationale 🚀.
 
 ---
 
-## Disclaimer & License
+## 💖 Support
+
+Thank you so much for exploring and using this curated resource! If you find this project valuable for your data science and engineering workflows, please consider supporting it:
+
+- ⭐ **Star this repository** to help others discover it across GitHub!
+- 🍴 **Fork and share** it with your fellow data scientists, engineers, and study groups.
+- ☕ **Buy a coffee & sponsor**: Support continuous curation and updates directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is deeply appreciated and keeps open-source knowledge thriving! 🙌
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Interactive-Data-Science-Notebooks&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Interactive-Data-Science-Notebooks&type=date&legend=top-left)
+
+---
+
+## 📜 Disclaimer & License
 
 - This list is community-curated for informational purposes and does not imply commercial endorsement.
 - Verify software license terms before deploying in commercial environments (e.g., BSD-3, Apache-2.0, MIT, AGPL-3.0, GPL-2.0).
